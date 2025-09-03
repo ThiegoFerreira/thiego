@@ -40,7 +40,7 @@ _Sistema de cadastro, listagem e edição de usuários em PHP com MySQL._
 ---
 
 ## 📫 Onde me encontrar  
-- LinkedIn: [Thiego Ferreira]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/thiego-ferreira-16991a306/))  
+- LinkedIn: [Thiego Ferreira](https://www.linkedin.com/in/thiego-ferreira-16991a306/)  
 - Email: **kamoth.dev@gmail.com**  
 
 ---
