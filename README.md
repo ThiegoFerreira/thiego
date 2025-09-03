@@ -1,7 +1,8 @@
-# 👋 Olá, eu sou o Thiego  
+# 👋 Olá, eu sou o Thiego 
+Técnico em Desenvolvimento de Sistemas - Senac Hub Academy
 
-🎯 Analista e desenvolvedor de sistemas | Apaixonado por programação, desafios e aprendizado constante.  
-💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas (Senac EAD)** e Técnico em Desenvolvimento de Sistemas.  
+🎯 Analista e desenvolvedor de sistemas | Cheguei tarde na programação, mas grato pelos desafios e em busca de aprendizado constante.  
+💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas (Senac EAD)**.  
 🌱 Estudando **React, TypeScript, PHP e Cloud Computing**.  
 
 ---
@@ -40,7 +41,7 @@ _Sistema de cadastro, listagem e edição de usuários em PHP com MySQL._
 
 ## 📫 Onde me encontrar  
 - LinkedIn: [Thiego Ferreira]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/thiego-ferreira-16991a306/))  
-- Email: **seuemail@email.com**  
+- Email: **kamoth.dev@gmail.com**  
 
 ---
 
