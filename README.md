@@ -32,8 +32,8 @@ _Sistema de cadastro, listagem e edição de usuários em PHP com MySQL._
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiegoFerreira&show_icons=true&theme=dracula" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiegoFerreira&layout=compact&theme=dracula" alt="Top Langs" height="165"/>
 </p>
 
 ---
